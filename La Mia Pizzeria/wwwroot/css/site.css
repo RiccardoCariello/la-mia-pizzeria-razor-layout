@@ -25,11 +25,10 @@ body {
 .bg_color_blue {
     /*background-color: burlywood;*/
     background-image: url('../img/PizzaBackgroundN2Medium.jpg');
-    
-    background-size:contain;
+    background-size:cover;
     background-repeat: no-repeat;
-    background-position: center; 
-    background-attachment:scroll;
+    background-position: center;
+    background-attachment: scroll;
 }
 
 .headerImage {
