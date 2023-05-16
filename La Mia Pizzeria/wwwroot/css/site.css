@@ -25,17 +25,17 @@ body {
 .bg_color_blue {
     /*background-color: burlywood;*/
     background-image: url('../img/PizzaBackgroundN2Medium.jpg');
-    background-size:cover;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: scroll;
 }
 
-.headerImage {
+.headerImage {/*
     background-image: url('../img/foad-roshan--H_iZKjIv-U-unsplash.png');
     background-size:auto;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center;*/
 }
 
 .square {
